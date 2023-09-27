@@ -1,0 +1,8 @@
+Milestones 2 Phase 2 URL
+Vincent Timothy Djaja / RMT-017
+
+Dataset:
+https://www.kaggle.com/datasets/shashwatwork/consume-complaints-dataset-fo-nlp
+
+Deployment URL:
+https://huggingface.co/spaces/Vincentim27/M2P2_Vincent_TD
